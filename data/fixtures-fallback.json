@@ -1,0 +1,2706 @@
+[
+  {
+    "id": -1,
+    "utcDate": "2026-06-11T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 1,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Mexico City",
+    "homeTeam": {
+      "name": "Mexico",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "South Africa",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -2,
+    "utcDate": "2026-06-12T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 1,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Guadalajara (Zapopan)",
+    "homeTeam": {
+      "name": "South Korea",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Czech Republic",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -7,
+    "utcDate": "2026-06-12T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 2,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Canada",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Bosnia & Herzegovina",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -19,
+    "utcDate": "2026-06-13T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 2,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "USA",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Paraguay",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -8,
+    "utcDate": "2026-06-13T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 3,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Qatar",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Switzerland",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -13,
+    "utcDate": "2026-06-13T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 3,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Brazil",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Morocco",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -14,
+    "utcDate": "2026-06-14T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 3,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Haiti",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Scotland",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -20,
+    "utcDate": "2026-06-14T04:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 3,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "Australia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Turkey",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -25,
+    "utcDate": "2026-06-14T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 4,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Germany",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Curaçao",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -31,
+    "utcDate": "2026-06-14T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 4,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Netherlands",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -26,
+    "utcDate": "2026-06-14T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 4,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "Ivory Coast",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Ecuador",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -32,
+    "utcDate": "2026-06-15T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 4,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Monterrey (Guadalupe)",
+    "homeTeam": {
+      "name": "Sweden",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Tunisia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -43,
+    "utcDate": "2026-06-15T16:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 5,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Spain",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Cape Verde",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -37,
+    "utcDate": "2026-06-15T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 5,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "Belgium",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Egypt",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -44,
+    "utcDate": "2026-06-15T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 5,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Saudi Arabia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Uruguay",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -38,
+    "utcDate": "2026-06-16T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 5,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Iran",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "New Zealand",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -49,
+    "utcDate": "2026-06-16T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 6,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "France",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Senegal",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -50,
+    "utcDate": "2026-06-16T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 6,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Iraq",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Norway",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -55,
+    "utcDate": "2026-06-17T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 6,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Argentina",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Algeria",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -56,
+    "utcDate": "2026-06-17T04:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 6,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Austria",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Jordan",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -61,
+    "utcDate": "2026-06-17T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 7,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Portugal",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "DR Congo",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -67,
+    "utcDate": "2026-06-17T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 7,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "England",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Croatia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -68,
+    "utcDate": "2026-06-17T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 7,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Ghana",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Panama",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -62,
+    "utcDate": "2026-06-18T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 7,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Mexico City",
+    "homeTeam": {
+      "name": "Uzbekistan",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Colombia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -3,
+    "utcDate": "2026-06-18T16:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 8,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Czech Republic",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "South Africa",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -9,
+    "utcDate": "2026-06-18T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 8,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Switzerland",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Bosnia & Herzegovina",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -10,
+    "utcDate": "2026-06-18T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 8,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "Canada",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Qatar",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -4,
+    "utcDate": "2026-06-19T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 8,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Guadalajara (Zapopan)",
+    "homeTeam": {
+      "name": "Mexico",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "South Korea",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -21,
+    "utcDate": "2026-06-19T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 9,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "USA",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Australia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -15,
+    "utcDate": "2026-06-19T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 9,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Scotland",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Morocco",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -16,
+    "utcDate": "2026-06-20T00:30:00.000Z",
+    "status": "TIMED",
+    "matchday": 9,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "Brazil",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Haiti",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -22,
+    "utcDate": "2026-06-20T03:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 9,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Turkey",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Paraguay",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -33,
+    "utcDate": "2026-06-20T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 10,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Netherlands",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Sweden",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -27,
+    "utcDate": "2026-06-20T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 10,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Germany",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Ivory Coast",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -28,
+    "utcDate": "2026-06-21T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 10,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Ecuador",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Curaçao",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -34,
+    "utcDate": "2026-06-21T04:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 10,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Monterrey (Guadalupe)",
+    "homeTeam": {
+      "name": "Tunisia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -45,
+    "utcDate": "2026-06-21T16:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 11,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Spain",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Saudi Arabia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -39,
+    "utcDate": "2026-06-21T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 11,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Belgium",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Iran",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -46,
+    "utcDate": "2026-06-21T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 11,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Uruguay",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Cape Verde",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -40,
+    "utcDate": "2026-06-22T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 11,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "New Zealand",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Egypt",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -57,
+    "utcDate": "2026-06-22T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 12,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Argentina",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Austria",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -51,
+    "utcDate": "2026-06-22T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 12,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "France",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Iraq",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -52,
+    "utcDate": "2026-06-23T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 12,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Norway",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Senegal",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -58,
+    "utcDate": "2026-06-23T03:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 12,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Jordan",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Algeria",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -63,
+    "utcDate": "2026-06-23T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 13,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Portugal",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Uzbekistan",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -69,
+    "utcDate": "2026-06-23T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 13,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "England",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Ghana",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -70,
+    "utcDate": "2026-06-23T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 13,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Panama",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Croatia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -64,
+    "utcDate": "2026-06-24T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 13,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Guadalajara (Zapopan)",
+    "homeTeam": {
+      "name": "Colombia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "DR Congo",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -11,
+    "utcDate": "2026-06-24T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "Switzerland",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Canada",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -12,
+    "utcDate": "2026-06-24T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_B",
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "Bosnia & Herzegovina",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Qatar",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -17,
+    "utcDate": "2026-06-24T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Scotland",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Brazil",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -18,
+    "utcDate": "2026-06-24T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_C",
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Morocco",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Haiti",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -5,
+    "utcDate": "2026-06-25T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Mexico City",
+    "homeTeam": {
+      "name": "Czech Republic",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Mexico",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -6,
+    "utcDate": "2026-06-25T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 14,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_A",
+    "venue": "Monterrey (Guadalupe)",
+    "homeTeam": {
+      "name": "South Africa",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "South Korea",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -29,
+    "utcDate": "2026-06-25T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "Curaçao",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Ivory Coast",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -30,
+    "utcDate": "2026-06-25T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_E",
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Ecuador",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Germany",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -35,
+    "utcDate": "2026-06-25T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Japan",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Sweden",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -36,
+    "utcDate": "2026-06-25T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_F",
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Tunisia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Netherlands",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -23,
+    "utcDate": "2026-06-26T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Turkey",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "USA",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -24,
+    "utcDate": "2026-06-26T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 15,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_D",
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Paraguay",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Australia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -53,
+    "utcDate": "2026-06-26T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Norway",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "France",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -54,
+    "utcDate": "2026-06-26T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_I",
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Senegal",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Iraq",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -47,
+    "utcDate": "2026-06-27T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Cape Verde",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Saudi Arabia",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -48,
+    "utcDate": "2026-06-27T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_H",
+    "venue": "Guadalajara (Zapopan)",
+    "homeTeam": {
+      "name": "Uruguay",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Spain",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -41,
+    "utcDate": "2026-06-27T03:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "Egypt",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Iran",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -42,
+    "utcDate": "2026-06-27T03:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 16,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_G",
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "New Zealand",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Belgium",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -71,
+    "utcDate": "2026-06-27T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Panama",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "England",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -72,
+    "utcDate": "2026-06-27T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_L",
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "Croatia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Ghana",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -65,
+    "utcDate": "2026-06-27T23:30:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Colombia",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Portugal",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -66,
+    "utcDate": "2026-06-27T23:30:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_K",
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "DR Congo",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Uzbekistan",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -59,
+    "utcDate": "2026-06-28T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Algeria",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Austria",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -60,
+    "utcDate": "2026-06-28T02:00:00.000Z",
+    "status": "TIMED",
+    "matchday": 17,
+    "stage": "GROUP_STAGE",
+    "group": "GROUP_J",
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Jordan",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Argentina",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -73,
+    "utcDate": "2026-06-28T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Group A Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group B Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -76,
+    "utcDate": "2026-06-29T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Group C Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group F Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -74,
+    "utcDate": "2026-06-29T20:30:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Group E Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -75,
+    "utcDate": "2026-06-30T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Monterrey (Guadalupe)",
+    "homeTeam": {
+      "name": "Group F Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group C Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -78,
+    "utcDate": "2026-06-30T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Group E Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group I Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -77,
+    "utcDate": "2026-06-30T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Group I Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -79,
+    "utcDate": "2026-07-01T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Mexico City",
+    "homeTeam": {
+      "name": "Group A Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -80,
+    "utcDate": "2026-07-01T16:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Group L Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -82,
+    "utcDate": "2026-07-01T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "Group G Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -81,
+    "utcDate": "2026-07-02T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "San Francisco Bay Area (Santa Clara)",
+    "homeTeam": {
+      "name": "Group D Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -84,
+    "utcDate": "2026-07-02T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Group H Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group J Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -83,
+    "utcDate": "2026-07-02T23:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Toronto",
+    "homeTeam": {
+      "name": "Group K Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group L Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -85,
+    "utcDate": "2026-07-03T03:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "Group B Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -88,
+    "utcDate": "2026-07-03T18:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Group D Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group G Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -86,
+    "utcDate": "2026-07-03T22:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Group J Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Group H Runner-up",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -87,
+    "utcDate": "2026-07-04T01:30:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_32",
+    "group": null,
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Group K Winner",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Third-place Qualifier",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -90,
+    "utcDate": "2026-07-04T17:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Houston",
+    "homeTeam": {
+      "name": "Winner Match 73",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 75",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -89,
+    "utcDate": "2026-07-04T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Philadelphia",
+    "homeTeam": {
+      "name": "Winner Match 74",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 77",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -91,
+    "utcDate": "2026-07-05T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Winner Match 76",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 78",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -92,
+    "utcDate": "2026-07-06T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Mexico City",
+    "homeTeam": {
+      "name": "Winner Match 79",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 80",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -93,
+    "utcDate": "2026-07-06T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Winner Match 83",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 84",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -94,
+    "utcDate": "2026-07-07T00:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Seattle",
+    "homeTeam": {
+      "name": "Winner Match 81",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 82",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -95,
+    "utcDate": "2026-07-07T16:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Winner Match 86",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 88",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -96,
+    "utcDate": "2026-07-07T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "LAST_16",
+    "group": null,
+    "venue": "Vancouver",
+    "homeTeam": {
+      "name": "Winner Match 85",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 87",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -97,
+    "utcDate": "2026-07-09T20:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "QUARTER_FINALS",
+    "group": null,
+    "venue": "Boston (Foxborough)",
+    "homeTeam": {
+      "name": "Winner Match 89",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 90",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -98,
+    "utcDate": "2026-07-10T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "QUARTER_FINALS",
+    "group": null,
+    "venue": "Los Angeles (Inglewood)",
+    "homeTeam": {
+      "name": "Winner Match 93",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 94",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -99,
+    "utcDate": "2026-07-11T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "QUARTER_FINALS",
+    "group": null,
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Winner Match 91",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 92",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -100,
+    "utcDate": "2026-07-12T01:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "QUARTER_FINALS",
+    "group": null,
+    "venue": "Kansas City",
+    "homeTeam": {
+      "name": "Winner Match 95",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 96",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -101,
+    "utcDate": "2026-07-14T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "SEMI_FINALS",
+    "group": null,
+    "venue": "Dallas (Arlington)",
+    "homeTeam": {
+      "name": "Winner Match 97",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 98",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -102,
+    "utcDate": "2026-07-15T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "SEMI_FINALS",
+    "group": null,
+    "venue": "Atlanta",
+    "homeTeam": {
+      "name": "Winner Match 99",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 100",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -103,
+    "utcDate": "2026-07-18T21:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "THIRD_PLACE",
+    "group": null,
+    "venue": "Miami (Miami Gardens)",
+    "homeTeam": {
+      "name": "Loser Match 101",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Loser Match 102",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": -104,
+    "utcDate": "2026-07-19T19:00:00.000Z",
+    "status": "TIMED",
+    "matchday": null,
+    "stage": "FINAL",
+    "group": null,
+    "venue": "New York/New Jersey (East Rutherford)",
+    "homeTeam": {
+      "name": "Winner Match 101",
+      "tla": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "name": "Winner Match 102",
+      "tla": null,
+      "crest": null
+    },
+    "score": {
+      "winner": null,
+      "fullTime": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]
